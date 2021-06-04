@@ -1,0 +1,6 @@
+namespace WebApplicationCICD.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
